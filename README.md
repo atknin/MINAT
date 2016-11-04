@@ -1,9 +1,17 @@
 <a href="https://github.com/atknin/MINAT/blob/master/Git_instruction.md" align="absmiddle"/> 1. [GITHUD инструкция]</a>
  
 
- ### Для начала работы:
+ # Для начала работы:
+
  
- 0) Подгрузить изменения других участников:
+
+1) Активировать  virtualenv;
+
+```	
+source myenv/bin/activate
+```	
+
+##0) Подгрузить изменения других участников:
 
 перейдем в папку проекта
  ```	
@@ -14,19 +22,13 @@ cd TESTproject
 get pull
 ```	
 
-1) Активировать  virtualenv;
-
-```	
-source myenv/bin/activate
-```	
-
-2) работаем с папкой:
+##2) работаем с папкой:
 
 ```	
 TESTproject
 ```	
 
-3) Внесли изменения, после:
+##3) Внесли изменения, после:
 
 
 
@@ -53,5 +55,3 @@ git commit -m "Add project"
 ```
 git push
 ```
-
-4) 
