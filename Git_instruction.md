@@ -1,6 +1,5 @@
-# <a href="http://maxsite.org/page/how-to-put-your-project-on-github-com" align="absmiddle"/> [ИСТОЧНИК]</a>
-
-2 СПОСОБА ВЫЛОЖИТЬ ПРОЕКТ: 
+<a href="http://maxsite.org/page/how-to-put-your-project-on-github-com" align="absmiddle"/> [ИСТОЧНИК]</a>
+ 
 
 ### А) Если папка на компьютере уже существует, осталось только выложить:
 
